@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TestsVSCode\\TestsCode.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TestsVSCode\\TestsCode.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TestsVSCode\\TestsCode.Tests.csproj",
+        "projectName": "TestsCode.Tests",
+        "projectPath": "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TestsVSCode\\TestsCode.Tests.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TestsVSCode\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj": {
+                "projectPath": "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj",
+        "projectName": "TP1_IS",
+        "projectPath": "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "D:\\Cuarto año\\Segundo cuatrimestre\\IS2\\Tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
