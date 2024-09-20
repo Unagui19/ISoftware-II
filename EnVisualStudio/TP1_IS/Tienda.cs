@@ -18,9 +18,9 @@ namespace TP1_IS
             inventario = new List<Producto>();
         }
 
-        public Tienda(List<Producto> inventario) 
+        public Tienda(List<Producto> inventario)
         {
-            this.inventario = inventario;   
+            this.inventario = inventario;
         }
 
 
@@ -32,12 +32,12 @@ namespace TP1_IS
 
         public int cantidadProductos()
         {
-            return inventario.Count;    
+            return inventario.Count;
         }
 
         public Producto BuscarProducto(string nombre)
         {
-             
+
             foreach (var producto in inventario)
             {
                 if (producto.Nombre == nombre)
@@ -45,8 +45,8 @@ namespace TP1_IS
                     return producto;
                 }
             }
-            
-            throw new ArgumentException("No existe el producto");  
+
+            throw new ArgumentException("No existe el producto");
 
         }
 
@@ -63,7 +63,17 @@ namespace TP1_IS
 
         }
 
-        
+        public void AplicarDescuento(string nombreProducto, decimal porcentaje)
+        {
+            var producto = BuscarProducto(nombreProducto);
+            if (producto != null)
+            {
+                var nuevoPrecio = producto.Precio - (producto.Precio * porcentaje / 100);
+                producto.ActualizarPrecio(nuevoPrecio);
+            }
+        }
+
+
     }
 
 }

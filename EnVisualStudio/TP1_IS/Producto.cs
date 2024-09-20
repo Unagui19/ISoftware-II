@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TP1_IS
 {
-    public class Producto
+    public class Producto : IProducto
     {
         public string Nombre { get; set; }
         public decimal Precio { get; set; }
