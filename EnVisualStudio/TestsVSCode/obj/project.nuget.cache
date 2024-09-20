@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "nebJbRJcjQUXJqdddIwN1MQyCdDpHXi2hD35LckCArXiQ4wCIuJmakyvLd39G9PjjIsizS5cvSMq+8eXV5Mtnw==",
+=======
+  "dgSpecHash": "JIq5CJ9GzvE=",
+>>>>>>> 12d8925649079435c24961d9b35f3657f2d403f5
   "success": true,
   "projectFilePath": "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TestsVSCode\\TestsCode.Tests.csproj",
   "expectedPackageFiles": [

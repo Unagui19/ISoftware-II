@@ -319,7 +319,10 @@
       "System.Reflection.Metadata/1.6.0": {},
       "TP1_IS/1.0.0": {
         "runtime": {
-          "TP1_IS.dll": {}
+          "TP1_IS.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

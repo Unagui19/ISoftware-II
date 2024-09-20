@@ -204,9 +204,9 @@ D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSC
 D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSCode\obj\Debug\net8.0\TestsCode.Tests.AssemblyInfo.cs
 D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSCode\obj\Debug\net8.0\TestsCode.Tests.csproj.CoreCompileInputs.cache
 D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSCode\obj\Debug\net8.0\TestsCode.Tests.sourcelink.json
-D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSCode\obj\Debug\net8.0\TestsCode.Tests.csproj.CopyComplete
 D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSCode\obj\Debug\net8.0\TestsCode.Tests.dll
 D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSCode\obj\Debug\net8.0\refint\TestsCode.Tests.dll
 D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSCode\obj\Debug\net8.0\TestsCode.Tests.pdb
 D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSCode\obj\Debug\net8.0\TestsCode.Tests.genruntimeconfig.cache
 D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSCode\obj\Debug\net8.0\ref\TestsCode.Tests.dll
+D:\Cuarto año\Segundo cuatrimestre\IS2\Tp1\ISoftware-II\EnVisualStudio\TestsVSCode\obj\Debug\net8.0\TestsCod.1832E81D.Up2Date
