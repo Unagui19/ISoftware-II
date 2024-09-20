@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "nebJbRJcjQUXJqdddIwN1MQyCdDpHXi2hD35LckCArXiQ4wCIuJmakyvLd39G9PjjIsizS5cvSMq+8eXV5Mtnw==",
-=======
-  "dgSpecHash": "JIq5CJ9GzvE=",
->>>>>>> 12d8925649079435c24961d9b35f3657f2d403f5
   "success": true,
   "projectFilePath": "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TestsVSCode\\TestsCode.Tests.csproj",
   "expectedPackageFiles": [
@@ -25,5 +21,12 @@
     "C:\\Users\\Facu\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\Facu\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TestsVSCode\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
