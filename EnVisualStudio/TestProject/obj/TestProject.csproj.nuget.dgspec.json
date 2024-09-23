@@ -1,33 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TestProject\\TestProject.csproj",
-        "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TestProject\\obj\\",
+        "projectPath": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Facu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj": {
-                "projectPath": "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj"
+              "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj": {
+                "projectPath": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj"
               }
             }
           }
@@ -36,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -49,6 +57,10 @@
             "Microsoft.Playwright.NUnit": {
               "target": "Package",
               "version": "[1.27.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
             },
             "NUnit": {
               "target": "Package",
@@ -83,26 +95,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj": {
+    "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj",
         "projectName": "TP1_IS",
-        "projectPath": "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj",
-        "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Facu\\Desktop\\tp1\\ISoftware-II\\EnVisualStudio\\TP1_IS\\obj\\",
+        "projectPath": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TP1_IS.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Facu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -115,6 +130,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -136,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

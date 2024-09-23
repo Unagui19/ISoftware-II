@@ -13,3 +13,18 @@ C:\Users\Facu\Desktop\tp1\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\re
 C:\Users\Facu\Desktop\tp1\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\TP1_IS.pdb
 C:\Users\Facu\Desktop\tp1\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\TP1_IS.genruntimeconfig.cache
 C:\Users\Facu\Desktop\tp1\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\ref\TP1_IS.dll
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\bin\Debug\net6.0\TP1_IS.exe
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\bin\Debug\net6.0\TP1_IS.deps.json
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\bin\Debug\net6.0\TP1_IS.runtimeconfig.json
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\bin\Debug\net6.0\TP1_IS.dll
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\bin\Debug\net6.0\TP1_IS.pdb
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\TP1_IS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\TP1_IS.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\TP1_IS.AssemblyInfo.cs
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\TP1_IS.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\TP1_IS.sourcelink.json
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\TP1_IS.dll
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\refint\TP1_IS.dll
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\TP1_IS.pdb
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\TP1_IS.genruntimeconfig.cache
+C:\Users\nicol\Desktop\Ingenieria de software II\ISoftware-II\EnVisualStudio\TP1_IS\obj\Debug\net6.0\ref\TP1_IS.dll

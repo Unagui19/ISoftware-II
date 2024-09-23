@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EED2CEC6-8875-4EF9-9F69-BCB8C41D6806}|..\\TestProject\\TestProject.csproj|c:\\users\\nicol\\desktop\\ingenieria de software ii\\isoftware-ii\\envisualstudio\\testproject\\test_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243637E7-3996-402E-B7DE-642FEFCCD75E}|TP1_IS.csproj|c:\\users\\nicol\\desktop\\ingenieria de software ii\\isoftware-ii\\envisualstudio\\tp1_is\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243637E7-3996-402E-B7DE-642FEFCCD75E}|TP1_IS.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED2CEC6-8875-4EF9-9F69-BCB8C41D6806}|..\\TestProject\\TestProject.csproj|c:\\users\\nicol\\desktop\\ingenieria de software ii\\isoftware-ii\\envisualstudio\\testproject\\tienda_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243637E7-3996-402E-B7DE-642FEFCCD75E}|TP1_IS.csproj|c:\\users\\nicol\\desktop\\ingenieria de software ii\\isoftware-ii\\envisualstudio\\tp1_is\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243637E7-3996-402E-B7DE-642FEFCCD75E}|TP1_IS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243637E7-3996-402E-B7DE-642FEFCCD75E}|TP1_IS.csproj|c:\\users\\nicol\\desktop\\ingenieria de software ii\\isoftware-ii\\envisualstudio\\tp1_is\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243637E7-3996-402E-B7DE-642FEFCCD75E}|TP1_IS.csproj|solutionrelative:tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243637E7-3996-402E-B7DE-642FEFCCD75E}|TP1_IS.csproj|c:\\users\\nicol\\desktop\\ingenieria de software ii\\isoftware-ii\\envisualstudio\\tp1_is\\tiendamocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243637E7-3996-402E-B7DE-642FEFCCD75E}|TP1_IS.csproj|solutionrelative:tiendamocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_producto.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TestProject\\test_producto.cs",
+              "RelativeDocumentMoniker": "..\\TestProject\\test_producto.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TestProject\\test_producto.cs",
+              "RelativeToolTip": "..\\TestProject\\test_producto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:26:32.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T00:24:15.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tienda_Test.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TestProject\\Tienda_Test.cs",
+              "RelativeDocumentMoniker": "..\\TestProject\\Tienda_Test.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TestProject\\Tienda_Test.cs",
+              "RelativeToolTip": "..\\TestProject\\Tienda_Test.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:39:09.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:31:05.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tienda.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\Tienda.cs",
+              "RelativeDocumentMoniker": "Tienda.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\Tienda.cs",
+              "RelativeToolTip": "Tienda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:23:41.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TiendaMocks.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TiendaMocks.cs",
+              "RelativeDocumentMoniker": "TiendaMocks.cs",
+              "ToolTip": "C:\\Users\\nicol\\Desktop\\Ingenieria de software II\\ISoftware-II\\EnVisualStudio\\TP1_IS\\TiendaMocks.cs",
+              "RelativeToolTip": "TiendaMocks.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T23:30:57.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

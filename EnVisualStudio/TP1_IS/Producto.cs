@@ -12,6 +12,15 @@ namespace TP1_IS
         public decimal Precio { get; set; }
         public string Categoria { get; set; }
 
+        private readonly IProducto _producto;
+
+        public Producto(IProducto producto)
+        {
+            _producto = producto;
+        }
+
+
+
         public Producto(string nombre, decimal precio, string categoria)
         {
             Nombre = nombre;
