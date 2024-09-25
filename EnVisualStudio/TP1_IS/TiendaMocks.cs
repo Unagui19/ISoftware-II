@@ -69,6 +69,15 @@ namespace TP1_IS
             }
         }
 
+        public decimal CalcularTotalCarrito(){
+            decimal total = 0;
+            foreach (var prod in inventario)
+            {
+                total += prod.Precio;
+            }
+            return total;
+        }
+
     }
 
 }
