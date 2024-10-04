@@ -13,34 +13,36 @@
 Preguntas:
 - ¿Puedes identificar pruebas de unidad y de integración en la práctica que realizaste?
 
+- A primer criterio podemos observar que los siguientes test son pruebas unitarias ya que son pruebas muy pegadas al codigo y no se esta probando de - forma directa como se comporta la interaccion entre dos modulos o clases.
+
 - Algunas pruebas de Unidad:
 -   public void buscarProductoPorNombre_meTieneDevolverProductoDelNombreSolicitado()
 -   public void eliminarProducto_meTieneDevolverTrue()
 -   public void agregarProducto_verificoContandolistaYbuscandolo()
 -   public void BuscarProducto_NoExisteProducto_DeberiaLanzarArgumentException()
 
+- Sin embargo desde un punto de vista mas teórico podriamos decir que se identifican pruebas de integracion ya que no podria tener una tienda sin pruductos para realizar estas pruebas.
 
 --- 2 ---
 - Podría haber escrito las pruebas primero antes de modificar el código de la aplicación?
 ¿Cómo sería el proceso de escribir primero los tests?
 
+Si se podría escribir primero Test antes de modificar el codigo de la aplicación. Esto se lograria a través 
+de TDD que es una técnica de diseño y test, es decir, se basa en diseñar a traves de los test.
 
-Se puede esscribir las pruebas primero antes de modificar el código de la aplicación. Esta es una práctica conocida como
-Desarrollo basado en pruebas (TDD), el cuak consiste en que los desarrolladores crean pruebas para verificar los requisitos funcionales de un programa antes de crear el código completo. Al escribir primero las pruebas, el código se puede verificar al instante en función de los requisitos, una vez que se realiza la codificación y se ejecutan las pruebas.
+El proceso sigue tres pasos clave:
 
-Proceso de TDD
-- Escribir una prueba fallida:
-    Primero, escribes una prueba que defina una nueva funcionalidad o mejora que deseas implementar. Esta prueba inicialmente fallará porque la funcionalidad aún no está implementada.
-
-- Escribir el código mínimo necesario:
-    Luego, escribes el código mínimo necesario para hacer que la prueba pase. Este código no tiene que ser perfecto ni completo, solo lo suficiente para que la prueba pase.
-- Refactorizar:
-    Una vez que la prueba pasa, refactorizas el código para mejorar su estructura y eliminar duplicaciones, asegurándote de que todas las pruebas sigan pasando.
+Escribir una prueba: Creas un test para una funcionalidad específica que aún no está implementada.
+Hacer que el test falle: Ejecutas la prueba y, como no hay código implementado, esta falla.
+Escribir el código: Escribes solo el código necesario para que la prueba pase.
+Refactorizar: Luego mejoras el código manteniendo las pruebas verdes (es decir, que pasen exitosamente).
+Este ciclo asegura que el software se construya con pruebas desde el principio, lo que mejora la calidad y la seguridad del código.
 
 --- 3 ---
 - En lo que va del trabajo práctico, ¿puedes identificar 'Controladores' y 'Resguardos'?
-
-
+Como controlador pudimos identificar nuestro Framework de prueba, NUnit, ya que dirige la prueba, ejecuta y verifica si el comportamiento del código es el esperado. 
+Como resguardos puedo identificar los mocks que realizamos en el práctico: 
+-
 
 - ¿Qué es un mock? ¿Hay otros nombres para los objetos/funciones simulados?
 Un mock es un objeto simulado que imita el comportamiento de objetos reales en un entorno controlado. Los mocks se utilizan principalmente en pruebas unitarias para aislar la unidad de código que se está probando de sus dependencias externas, como bases de datos, servicios web, o cualquier otro componente que no se desea incluir en la prueba
@@ -89,3 +91,5 @@ Enfoque de uso de fixtures: ??
 - ¿Puede describir una situación de desarrollo para este caso en donde se plantee pruebas de
 integración ascendente? Describa la situación.
 
+En este caso deberiamos comenzar con pruebas atómicas de la clase producto usando drivers q realicen el papel de Tienda. Primero deberias probar las funcionalidades de Producto, como crearlo, aliminarlo, modificar precio. Luego habría que probar la clase Tienda y finalmente la integracion con la clase producto ya probada. 
+Al seguir este enfoque, nos garantizamos que los módulos individuales funcionan bien antes de integrarlos y probar el sistema completo.  
