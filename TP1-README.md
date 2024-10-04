@@ -41,10 +41,16 @@ Este ciclo asegura que el software se construya con pruebas desde el principio, 
 --- 3 ---
 - En lo que va del trabajo práctico, ¿puedes identificar 'Controladores' y 'Resguardos'?
 Como controlador pudimos identificar nuestro Framework de prueba, NUnit, ya que dirige la prueba, ejecuta y verifica si el comportamiento del código es el esperado. 
+
 Como resguardos puedo identificar los mocks que realizamos en el práctico: 
--
+
+    AplicarDescuento_ProductoExistente_ActualizaPrecio()
+    AgregarProducto_ProductoValido_DeberiaAgregarAlInventario()
+    BuscarProducto_ProductoExistente_DeberiaDevolverProducto()
+    EliminarProducto_ProductoExistente_DeberiaEliminarProducto()
 
 - ¿Qué es un mock? ¿Hay otros nombres para los objetos/funciones simulados?
+
 Un mock es un objeto simulado que imita el comportamiento de objetos reales en un entorno controlado. Los mocks se utilizan principalmente en pruebas unitarias para aislar la unidad de código que se está probando de sus dependencias externas, como bases de datos, servicios web, o cualquier otro componente que no se desea incluir en la prueba
 Los mocks permiten definir el comportamiento esperado de las dependencias externas. Por ejemplo, puedes especificar que un método de un mock debe devolver un valor específico cuando se le llama con ciertos parámetros. Esto te permite probar cómo tu código maneja diferentes escenarios sin necesidad de interactuar con las dependencias reales.
 

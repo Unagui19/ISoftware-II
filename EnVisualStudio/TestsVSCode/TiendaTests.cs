@@ -33,7 +33,6 @@ namespace Test
             // Assert
             Assert.IsInstanceOf(typeof(Producto),productoActual);
             Assert.AreEqual(productoEsperado,productoActual);
-
         }
 
         [Test]

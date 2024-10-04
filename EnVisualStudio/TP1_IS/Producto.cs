@@ -19,8 +19,6 @@ namespace TP1_IS
             _producto = producto;
         }
 
-
-
         public Producto(string nombre, decimal precio, string categoria)
         {
             Nombre = nombre;
